@@ -43,7 +43,4 @@ public class Usuario {
     public Long getId() {
         return id;
     }
-
-    public String getq() {
-    }
 }
